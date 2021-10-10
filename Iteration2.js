@@ -1,4 +1,4 @@
-//! Iteración #2: Mix Fors
+//!  Iteración #2: Mix Fors
 
 // Dado el siguiente javascript usa forof y forin para hacer la media del volumen de todos los sonidos favoritos que tienen los usuarios.
 
